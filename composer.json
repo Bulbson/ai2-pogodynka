@@ -1,0 +1,16 @@
+{
+    "name": "hpluchrat/pogodynka",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hpluchrat\\Pogodynka\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hubert Pluchrat"
+        }
+    ],
+    "require": {}
+}
